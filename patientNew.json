@@ -1,0 +1,22 @@
+{
+    "resourceType":"Patient",
+    "active":true,
+    "name":[
+        {
+            "use":"official",
+            "family":[
+                "Letélié"
+            ],
+            "given":[
+                "Sébastien",
+                "Georges"
+            ]
+        },
+        {
+            "use":"usual",
+            "given":[
+                "Seb"
+            ]
+        }
+    ]
+}
